@@ -1,6 +1,5 @@
 # Garden
 
-_If you love Garden, please ★ star this repository to show your support :green_heart:. Looking for support? Join our [Discord](https://go.garden.io/discord)._
 
 <p align="center">
   <picture>
