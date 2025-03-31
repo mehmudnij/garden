@@ -23,3 +23,6 @@ providers:
 variables:
   timeout: 360
   show-log: false
+
+  show-log: false
+  show-log: false
